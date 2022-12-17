@@ -17,6 +17,6 @@ Mit dem 2000mAh Akku lassen sich 2-3 Monate alle drei Minuten Meswwerte aufnehme
 
 ## Aufbau
 Der Senser wird an IO27/D4 sowie and der Spannungsversorgung angeschlossen.
-Der Akku kann über deb USB - Stecker geladen werden.
+Der Akku kann über den USB - Stecker geladen werden.
 ![Schaltung](Schaltung.jpeg)
 
