@@ -7,7 +7,7 @@ Die Übertagung wird in unter einer Sekunde duchgeführt, so dass ein Akkubetrie
 
 ## Hardware
 * FireBeetle ESP32 IoT Microcontroller (https://www.dfrobot.com)
-* DHT22 Temperature & Humidity Sensor (https://www.dfrobot.com´)
+* DHT22 Temperature & Humidity Sensor (https://www.dfrobot.com)
 * Lipo Akku 1s 3,7V 2000mAh JST PH Stecker (https://www.amazon.de)
 
 ## Akkubetrieb
